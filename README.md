@@ -17,8 +17,14 @@ Imagens e ícones: personalização visual.
 - ✅ Formulário de contato com campos de nome, e-mail e mensagem.
 - ✅ Navegação entre a seção de links e o formulário.
 - ✅ Rodapé com créditos e direitos autorais.
+- 
+![Prévia do Projeto](https://github.com/GYOPIVA/portifolio/blob/main/exemplo.png)
+## 🚀 Como executar
+- Clone este repositório
+- E 
 
+### 📬 Futuras melhorias
 
-📷 Prévia
-
-🚀 Como executar
+- Integração com backend Node.js para envio de e-mails via formulário.
+- Validação de campos com JavaScript.
+- Animações e transições suaves.
