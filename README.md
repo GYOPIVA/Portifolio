@@ -20,8 +20,10 @@ Imagens e ícones: personalização visual.
 - 
 ![Prévia do Projeto](https://github.com/GYOPIVA/portifolio/blob/main/exemplo.png)
 ## 🚀 Como executar
+
 - Clone este repositório
-- E 
+- Abra o arquivo index.html no seu navegador de preferência.
+
 
 ### 📬 Futuras melhorias
 
